@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+.button-download {
+  display: inline-block;
+  position: absolute;
+  top: -55px; /* Default top position */
+  left: 0px; /* Default right position */
+
+  @media (max-width: 768px) {
+    /* Adjust the position for smaller screens */
+    top: 10px;
+    right: 10px;
+  }
+}
+
+.hovered {
+  transition: transform 0.05s;
+  transform: scale(1.1);
+}
+
+
+.select-theme {
+  margin-bottom: 15px;
+  font-size: 14px; /* Adjust the font size as needed */
+  padding: 5px; /* Adjust the padding as needed */
+}
+
+

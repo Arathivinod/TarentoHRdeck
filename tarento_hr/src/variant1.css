@@ -1,0 +1,32 @@
+.resume-container1 {
+    background-color: #bed3e8;
+    padding: 20px;
+  }
+  
+  .profile-picture {
+    text-align: center;
+    width: 180px;
+    height: 180px;
+    margin: auto;
+  }
+  
+  .emp-name {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+  
+  .small-container {
+    margin-top: 20px;
+  }
+  
+  .right-column {
+    padding-left: 20px;
+  }
+  
+  .list-item:hover {
+    background-color: #e0e0e0;
+    cursor: pointer;
+  }
+  .wwib-text {
+    font-size: 18px;
+  }

@@ -1,0 +1,36 @@
+.resume-container3 {
+    background-color: #c2e0c6;
+    padding: 15px;
+  }
+  
+  .profile-picture {
+    text-align: center;
+    width: 160px;
+    height: 160px;
+    margin: auto;
+  }
+  
+  .emp-name {
+    font-size: 1.3rem;
+    margin-top: 8px;
+  }
+  
+  .small-container {
+    margin-top: 15px;
+  }
+  
+  .right-column {
+    padding-left: 15px;
+  }
+  
+  .list-item:hover {
+    background-color: #d9f2d9;
+    cursor: pointer;
+  }
+  
+  .select-theme {
+    margin-bottom: 12px;
+    font-size: 12px;
+    padding: 4px;
+  }
+  
